@@ -1,0 +1,3 @@
+include ':GadView'
+include ':app'
+rootProject.name = "GadBottomView"
